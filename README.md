@@ -1,5 +1,5 @@
 # fakecall [CLI Version]
-# Note : Just For Fun
+# Note : Just For Fun 
 # How To Run?
 # sudo apt-get install php5-curl
 # sudo service apache2 restart
